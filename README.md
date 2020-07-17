@@ -1,2 +1,2 @@
 # ENEM
-Preparação para o processo seletivo **Enem**, com planos de estudos encontrados na internet.
+Preparação para o **Enem**, com planos de estudos e informações encontradas na internet.
